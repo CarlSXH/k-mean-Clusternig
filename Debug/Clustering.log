@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\carl\documents\visual studio 2017\machine learning\clustering\clustering\main.cpp(213): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\machine learning\clustering\clustering\main.cpp(234): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\machine learning\clustering\clustering\main.cpp(251): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\machine learning\clustering\clustering\main.cpp(301): warning C4018: '>': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\machine learning\clustering\clustering\main.cpp(324): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\machine learning\clustering\clustering\main.cpp(330): warning C4018: '<': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\machine learning\clustering\clustering\main.cpp(404): warning C4018: '>': signed/unsigned mismatch
+d:\carl\documents\visual studio 2017\machine learning\clustering\clustering\main.cpp(457): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+d:\carl\documents\visual studio 2017\machine learning\clustering\clustering\main.cpp(462): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+  Clustering.vcxproj -> D:\Carl\Documents\Visual Studio 2017\Machine Learning\Clustering\Clustering\Debug\Clustering.exe
